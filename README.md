@@ -9,14 +9,12 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar de Perceval00731" src="images/ma_tete_ia.png" alt="Avatar de Perceval00731">
   </div>
 </div>
 
 <details>
 <summary>A propos de moi</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
 <div align="left">
 
@@ -92,7 +90,7 @@ public class Thomas {
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
+<summary>Que puis je faire pour vous</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
