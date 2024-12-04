@@ -63,7 +63,7 @@ public class Thomas {
 
 
 <details>
-  <summary>Quote</summary>
+  <summary>Citation</summary>
   <br>
   <blockquote>
     “The quieter you become, the more you are able to hear.”
