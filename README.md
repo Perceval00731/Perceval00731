@@ -34,8 +34,8 @@ public class Thomas {
         this.prenom = "Thomas";
         this.age = 19;
         this.adresse = "Toulouse";
-        this.job = "étudiant";
-        this.entreprise = "IUT Blagnac";
+        this.job = "Alternant en 3e année de BUT informatique";
+        this.entreprise = "IUT Blagnac - BPCE";
     }
 }
 ```
@@ -48,7 +48,7 @@ public class Thomas {
 <summary>Outils</summary>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,linux,mysql,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,linux,mysql,py,angular,react,vscode&perline=14" />
   </a>
 </p>
 </details>
